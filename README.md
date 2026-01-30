@@ -1,5 +1,4 @@
-[![MasterHead](https://pngtree.com/free-backgrounds-photos/java-code)
-
+[![MasterHead]([https://pngtree.com/free-backgrounds-photos/java-code](https://www.shutterstock.com/image-photo/desktop-source-code-technology-background-developer-1168655314?irclickid=3dfyVWVcexycTgxR6E2Shwi0Uku0TXyu5RRZSk0&irgwc=1&afsrc=1&pl=38919-1636534&utm_medium=Affiliate&utm_campaign=Eezy%2C+LLC&utm_source=38919&utm_term=direct&utm_content=1636534&dd_referrer=https%3A%2F%2Fwww.vecteezy.com%2F))
 <h1 align="center">Hi 👋, I'm Tural</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
@@ -17,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tural ismayilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tural ismayilov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/tural-ismayılov-652141230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tural-ismayılov-652141230" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
