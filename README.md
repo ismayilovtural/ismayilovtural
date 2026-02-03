@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey I'm Tural
 🧪  I am a Junior QA Engineer focused on manual testing  <br>🐞I enjoy finding bugs and improving software quality <br>📝I create clear test cases and detailed bug reports  <br>🌐I practice testing on real web applications <br> 🚀I am constantly learning and improving my QA skills <br>
 
 
